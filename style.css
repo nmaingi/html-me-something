@@ -1,0 +1,27 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html {
+    background-color: ivory;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 50px 30px 50px 30px;
+    margin: 20px;  
+}
+
+#h2 {
+    color: cadetblue;
+    text-align: center;
+}
+
+.para {
+    color: crimson;
+    text-align: left;
+
+}
+
+section {
+    font-style: italic;
+
+}
